@@ -1,0 +1,185 @@
+- key: readability-identifier-naming.AbstractClassCase
+value: CamelCase
+
+- key: readability-identifier-naming.AbstractClassPrefix
+value: 'A'
+
+- key: readability-identifier-naming.ClassCase
+value: CamelCase
+
+- key: readability-identifier-naming.ClassPrefix
+value: 'C'
+
+- key: readability-identifier-naming.ClassConstantCase
+value: CamelCase
+
+- key: readability-identifier-naming.ClassConstantPrefix
+value: 'k'
+
+- key: readability-identifier-naming.ClassMemberCase
+value: CamelCase
+
+- key: readability-identifier-naming.ClassMethodCase
+value: camelBack
+
+- key: readability-identifier-naming.ConstantCase
+value: UPPER_CASE
+
+- key: readability-identifier-naming.ConstantSuffix
+value: '_CST'
+
+- key: readability-identifier-naming.ConstexprFunctionCase
+value: lower_case
+
+- key: readability-identifier-naming.ConstexprMethodCase
+value: lower_case
+
+- key: readability-identifier-naming.ConstexprVariableCase
+value: lower_case
+
+- key: readability-identifier-naming.EnumCase
+value: CamelCase
+
+- key: readability-identifier-naming.EnumPrefix
+value: 'E'
+
+- key: readability-identifier-naming.EnumConstantCase
+value: UPPER_CASE
+
+- key: readability-identifier-naming.FunctionCase
+value: camelBack
+
+- key: readability-identifier-naming.GlobalConstantCase
+value: UPPER_CASE
+
+- key: readability-identifier-naming.GlobalFunctionCase
+value: CamelCase
+
+- key: readability-identifier-naming.GlobalVariableCase
+value: lower_case
+
+- key: readability-identifier-naming.GlobalVariablePrefix
+value: 'g_'
+
+- key: readability-identifier-naming.InlineNamespaceCase
+value: lower_case
+
+- key: readability-identifier-naming.LocalConstantCase
+value: CamelCase
+
+- key: readability-identifier-naming.LocalConstantPrefix
+value: 'k'
+
+- key: readability-identifier-naming.LocalVariableCase
+value: lower_case
+
+- key: readability-identifier-naming.MemberCase
+value: CamelCase
+
+- key: readability-identifier-naming.MemberPrefix
+value: 'm_'
+
+- key: readability-identifier-naming.ConstantMemberCase
+value: lower_case
+
+- key: readability-identifier-naming.PrivateMemberPrefix
+value: '__'
+
+- key: readability-identifier-naming.ProtectedMemberPrefix
+value: '_'
+
+- key: readability-identifier-naming.PublicMemberCase
+value: lower_case
+
+- key: readability-identifier-naming.MethodCase
+value: camelBack
+
+- key: readability-identifier-naming.PrivateMethodPrefix
+value: '__'
+
+- key: readability-identifier-naming.ProtectedMethodPrefix
+value: '_'
+
+- key: readability-identifier-naming.NamespaceCase
+value: lower_case
+
+- key: readability-identifier-naming.ParameterCase
+value: camelBack
+
+- key: readability-identifier-naming.ParameterPrefix
+value: 'a_'
+
+- key: readability-identifier-naming.ConstantParameterCase
+value: camelBack
+
+- key: readability-identifier-naming.ConstantParameterPrefix
+value: 'i_'
+
+- key: readability-identifier-naming.ParameterPackCase
+value: camelBack
+
+- key: readability-identifier-naming.PureFunctionCase
+value: lower_case
+
+- key: readability-identifier-naming.PureMethodCase
+value: camelBack
+
+- key: readability-identifier-naming.StaticConstantCase
+value: UPPER_CASE
+
+- key: readability-identifier-naming.StaticVariableCase
+value: camelBack
+
+- key: readability-identifier-naming.StaticVariablePrefix
+value: 's_'
+
+- key: readability-identifier-naming.StructCase
+value: lower_case
+
+- key: readability-identifier-naming.TemplateParameterCase
+value: UPPER_CASE
+
+- key: readability-identifier-naming.TemplateTemplateParameterCase
+value: CamelCase
+
+- key: readability-identifier-naming.TemplateUsingCase
+value: lower_case
+
+- key: readability-identifier-naming.TemplateUsingPrefix
+value: 'u_'
+
+- key: readability-identifier-naming.TypeTemplateParameterCase
+value: camelBack
+
+- key: readability-identifier-naming.TypeTemplateParameterSuffix
+value: '_t'
+
+- key: readability-identifier-naming.TypedefCase
+value: lower_case
+
+- key: readability-identifier-naming.TypedefSuffix
+value: '_t'
+
+- key: readability-identifier-naming.UnionCase
+value: CamelCase
+
+- key: readability-identifier-naming.UnionPrefix
+value: 'U'
+
+- key: readability-identifier-naming.UsingCase
+value: lower_case
+
+- key: readability-identifier-naming.ValueTemplateParameterCase
+value: camelBack
+
+- key: readability-identifier-naming.VariableCase
+value: lower_case
+
+- key: readability-identifier-naming.VirtualMethodCase
+value: UPPER_CASE
+
+- key: readability-identifier-naming.VirtualMethodPrefix
+value: 'v_'
+
+- key: readability-identifier-naming.IgnoreFailedSplit
+value: 0} \
